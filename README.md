@@ -1,3 +1,1 @@
-# learn_git
-
-ini dah di clone yak
+echo "# first_repo"
